@@ -1,5 +1,3 @@
-# PIPELINE DEFINITION
-# Name: ml-pipeline
 components:
   comp-evaluate-model:
     executorLabel: exec-evaluate-model
